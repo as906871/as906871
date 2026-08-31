@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer with 3+ years of experience specializing in building scalable and high-performance web applications. I have strong expertise in React.js, Next.js, Redux, JavaScript, TypeScript, HTML, CSS, and Progressive Web Apps. I am experienced in working with REST APIs, MongoDB, MySQL, Supabase, and Firebase. My skill set also includes Tailwind CSS, Material UI, Bootstrap, Ant Design, and modern development tools like Git, GitHub, Docker, Webpack, NPM, and Yarn. I am passionate about performance optimization, clean architecture, and delivering user-focused, production-ready solutions.
+I am a Software Developer with 4+ years of experience specializing in building scalable and high-performance web applications. I have strong expertise in React.js, Next.js, Redux, JavaScript, TypeScript, HTML, CSS, and Progressive Web Apps. I am experienced in working with REST APIs, MongoDB, MySQL, Supabase, and Firebase. My skill set also includes Tailwind CSS, Material UI, Bootstrap, Ant Design, and modern development tools like Git, GitHub, Docker, Webpack, NPM, and Yarn. I am passionate about performance optimization, clean architecture, and delivering user-focused, production-ready solutions.
 
 
 ## 🌐 Socials:
